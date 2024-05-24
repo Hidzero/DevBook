@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "851529537665",
+    "project_id": "devbookrn",
+    "storage_bucket": "devbookrn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851529537665:android:82ca49a1c16ce7659a9580",
+        "android_client_info": {
+          "package_name": "com.triangle.DevBook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2QZLWseb52ndJ4bP174g87xX-epTvcU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
